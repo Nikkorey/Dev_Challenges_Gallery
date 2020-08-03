@@ -10,6 +10,7 @@ For this project I had to build a responsive, mobile-first layout using HTML and
 I Fulfill the user stories below:
 
  * User story: I can see a page following the given design
+ 
 Browsers tested for compatibility:
 
 * Chrome
